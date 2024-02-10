@@ -5,9 +5,9 @@
 
 #include "testKing.h" // for KING_TEST
 #include "piece.h"     // for KING
-#include <cassert>    
-#include "board.h" // for ASSERT
-#include "iostream"
+#include <cassert>    // for ASSERT
+#include "board.h" 
+#include <iostream>
 using namespace std;
 extern Interface* ui;
 

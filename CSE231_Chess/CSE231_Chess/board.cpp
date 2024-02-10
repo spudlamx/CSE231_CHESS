@@ -1,5 +1,4 @@
 
-
 #include "board.h"
 #include <cassert>
 using namespace std;

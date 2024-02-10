@@ -1,7 +1,7 @@
 #include "piece.h"
 #include "board.h"
-#include "cassert"
-#include "iostream"
+#include <cassert>
+#include <iostream>
 
 const Piece& Piece::operator=(const Piece& rhs) {
     if (this != &rhs) {
